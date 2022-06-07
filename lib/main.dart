@@ -13,7 +13,7 @@ class App extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'NP Group',
+      title: 'Web Tool',
       theme: ThemeData(
         primarySwatch: Colors.indigo,
       ),
